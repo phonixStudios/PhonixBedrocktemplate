@@ -21,7 +21,7 @@ GeyserMC: https://geysermc.org
 
 # Attribution
 
-encourage you to use and share these resources with the community, but there's one rule: give credit where credit's due. When you use or share any part of this code or the provided examples, please include the attribution of the paticular contributor. For example: [Link Text](#sample-section).
+encourage you to use and share these resources with the community, but there's one rule: give credit where credit's due. When you use or share any part of this code or the provided examples, please include the attribution of the paticular contributor. For example: // Created by: phonix, repository:https://github.com/phonixStudios/PhonixBedrocktemplate.git
 
 This attribution ensures that the community knows the source of these resources and helps promote collaboration and continued development.
 ## Explore and Enjoy!
