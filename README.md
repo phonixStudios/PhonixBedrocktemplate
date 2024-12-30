@@ -31,7 +31,7 @@ Feel free to explore the scripts and resource pack examples in this repository, 
 If you have any questions, suggestions, or contributions, please don't hesitate to get in touch.
 
 DISCORD USERNAME:phonix_200k
-DISCORD LINK :
+DISCORD LINK :https://discord.gg/KRzEexhUeJ
 ## GPL 3 in a nutshell
 
 You Can:
