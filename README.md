@@ -2,7 +2,7 @@
 
 Overview
 
-Hey there, fellow Minecraft enthusiasts! This is phoenix, and I've put together this repository to share some Bedrock resource pack examples and scripts that can help you to make you own packs and update your Minecraft experience. The collection is a work in progress, and I plan to keep expanding it over time.
+```Hey there, fellow Minecraft enthusiasts! This is phoenix, and I've put together this repository to share some Bedrock resource pack examples and scripts that can help you to make you own packs and update your Minecraft experience. The collection is a work in progress, and I plan to keep expanding it over time.```
 
 Repository Structures
 
